@@ -2,7 +2,7 @@
 
   <h1 style="font-size: 24px; letter-spacing: 2px;">WELCOME</h1>
   
-  <h2 style="font-size: 22px;">This is Goksel Kacaroglu!</h2>
+  <h2 style="font-size: 22px;">This is Goksel Kacaroglu! A Business Analyst / Data Analyst</h2>
   
   <p style="font-size: 18px; font-style: italic;">A Business Analyst / Data Analyst</p>
 
