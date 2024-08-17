@@ -1,4 +1,8 @@
-<img width="1375" alt="Screen Shot 2023-12-08 at 6 55 58 PM" src="https://github.com/gokselkacar/gokselkacar/assets/90986708/52581966-83b7-439f-9eff-f764100412c3">
+<div style="border: 1px solid black; border-radius: 25px; text-align: center; padding: 20px; margin-top: 20px;">
+    <h1>WELCOME</h1>
+    <h2>This is Goksel Kacaroglu!</h2>
+    <p>A Business Analyst / Data Analyst</p>
+</div>
 
 Versatile professional with 2 years of Business Analyst/Data Analyst experience and over 6 years in Business Administration and Marketing. Strong background in project lifecycle management, business systems and requirements analysis, statistical modeling, model evaluation, machine learning algorithms, exploratory data analysis (EDA), data cleaning and preprocessing, A/B Testing, data analysis and visualization, and extracting actionable insights using SQL, Python, R, Tableau, and Power BI. 
 
