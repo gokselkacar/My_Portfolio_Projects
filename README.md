@@ -15,4 +15,5 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gokselkacaroglu/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="gokselkacaroglu" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokselkacaroglu/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="gokselkacaroglu" height="40" width="40" /></a> src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-1024.png" alt="@goksel.kacar" height="40" width="40" /></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmlnSlpSbnWdphFdRsLTNpXlDsHKsJPwTpWjmmTqrqJLbbGCBJxngnvqfkbVLrFffntkDw" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-1024.png" alt="@goksel.kacar" height="40" width="40" /></a> 
+</p>
