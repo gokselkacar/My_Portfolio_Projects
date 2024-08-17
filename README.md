@@ -1,10 +1,9 @@
 <div style="border: 2px solid black; border-radius: 50px; text-align: center; padding: 20px; margin: 0 auto; max-width: 800px; font-family: Arial, sans-serif;">
 
-  <h1 style="font-size: 24px; letter-spacing: 2px;">WELCOME</h1>
+  <h1 style="font-size: 24px; letter-spacing: 2px;">WELCOME TO MY PAGE</h1>
   
   <h2 style="font-size: 22px;">This is Goksel Kacaroglu! A Business Analyst / Data Analyst</h2>
   
-  <p style="font-size: 18px; font-style: italic;">A Business Analyst / Data Analyst</p>
 
 </div>
 
