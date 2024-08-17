@@ -1,8 +1,53 @@
-<div style="border: 1px solid black; border-radius: 25px; text-align: center; padding: 20px; margin-top: 20px;">
-    <h1>WELCOME</h1>
-    <h2>This is Goksel Kacaroglu!</h2>
-    <p>A Business Analyst / Data Analyst</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: white;
+        }
+        .container {
+            text-align: center;
+            border: 2px solid black;
+            border-radius: 50px;
+            padding: 20px 50px;
+            width: 80%;
+            max-width: 800px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 24px;
+            letter-spacing: 5px;
+        }
+        h2 {
+            margin: 10px 0;
+            font-size: 22px;
+            font-weight: normal;
+        }
+        p {
+            font-size: 18px;
+            margin: 5px 0;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>WELCOME</h1>
+        <h2>This is Goksel Kacaroglu!</h2>
+        <p>A Business Analyst / Data Analyst</p>
+    </div>
+</body>
+</html>
+
 
 Versatile professional with 2 years of Business Analyst/Data Analyst experience and over 6 years in Business Administration and Marketing. Strong background in project lifecycle management, business systems and requirements analysis, statistical modeling, model evaluation, machine learning algorithms, exploratory data analysis (EDA), data cleaning and preprocessing, A/B Testing, data analysis and visualization, and extracting actionable insights using SQL, Python, R, Tableau, and Power BI. 
 
