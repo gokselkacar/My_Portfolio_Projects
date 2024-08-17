@@ -7,7 +7,7 @@
 
 </div>
 
-Versatile professional with 2 years of Business Analyst/Data Analyst experience and over 6 years in Business Administration and Marketing. Strong background in project lifecycle management, business systems and requirements analysis, statistical modeling, model evaluation, machine learning algorithms, exploratory data analysis (EDA), data cleaning and preprocessing, A/B Testing, data analysis and visualization, and extracting actionable insights using SQL, Python, R, Tableau, and Power BI. 
+📌 Versatile professional with 2 years of Business Analyst/Data Analyst experience and over 6 years in Business Administration and Marketing. Strong background in project lifecycle management, business systems and requirements analysis, statistical modeling, model evaluation, machine learning algorithms, exploratory data analysis (EDA), data cleaning and preprocessing, A/B Testing, data analysis and visualization, and extracting actionable insights using SQL, Python, R, Tableau, and Power BI. 
 
 Deep understanding of Digital Marketing and Advertising, Business Administration, Customer Relationship Management, E-commerce, International Trade, and Supply Chain Management with a proven track record in executing digital marketing strategies, branding, social media management, SEO/SEM, PPC campaigns, Google Analytics and Facebook Ads.
 
