@@ -1,48 +1,42 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: white;
-        }
-        .container {
-            text-align: center;
+        .welcome-container {
             border: 2px solid black;
             border-radius: 50px;
-            padding: 20px 50px;
-            width: 80%;
+            text-align: center;
+            padding: 20px;
+            margin: 0 auto;
             max-width: 800px;
+            font-family: Arial, sans-serif;
         }
-        h1 {
-            margin: 0;
+
+        .welcome-title {
             font-size: 24px;
-            letter-spacing: 5px;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
         }
-        h2 {
-            margin: 10px 0;
+
+        .welcome-subtitle {
             font-size: 22px;
-            font-weight: normal;
+            margin-bottom: 10px;
         }
-        p {
+
+        .welcome-description {
             font-size: 18px;
-            margin: 5px 0;
             font-style: italic;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>WELCOME</h1>
-        <h2>This is Goksel Kacaroglu!</h2>
-        <p>A Business Analyst / Data Analyst</p>
+    <div class="welcome-container">
+        <div class="welcome-title">WELCOME</div>
+        <div class="welcome-subtitle">This is Goksel Kacaroglu!</div>
+        <div class="welcome-description">A Business Analyst / Data Analyst</div>
     </div>
 </body>
 </html>
