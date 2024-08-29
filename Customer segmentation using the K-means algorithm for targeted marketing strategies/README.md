@@ -34,3 +34,7 @@ variables like gender within each cluster.
 - Derive insights from the clustering results.
 
 - Recommend targeted marketing strategies for each customer segment.
+
+### Results
+
+
