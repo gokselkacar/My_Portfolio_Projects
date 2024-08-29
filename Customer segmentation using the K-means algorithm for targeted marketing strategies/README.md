@@ -5,7 +5,7 @@ Developing a customer segmentation model to categorize customers into distinct g
 
 ### Steps:
 #### Data Exploration:
-  ● Import the dataset and perform basic exploratory data analysis (EDA).
+& ● Import the dataset and perform basic exploratory data analysis (EDA).
 
 ● Check for missing values, outliers, and understand the distribution of key
 variables like age, income, and spending score.
