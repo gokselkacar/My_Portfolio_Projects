@@ -1,6 +1,6 @@
-### Customer Segmentation and Targeted Marketing Strategy
+## Customer Segmentation and Targeted Marketing Strategy
 
-# Objective:
+### Objective:
 Develop a customer segmentation model to categorize customers into distinct groups
 based on their purchasing behavior and personal characteristics. Use this model to
 recommend targeted marketing strategies for a retail company.
