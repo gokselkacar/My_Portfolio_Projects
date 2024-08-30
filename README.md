@@ -12,7 +12,7 @@
 
 - **Languages** | Python, SQL(PostgreSQL, MySQL), R
 - **Libraries** | Pandas,  Matplotlib, Seaborn, Plotly, NumPy, Scikit-Learn, TensorFlow, NLTK
-- **Technologies/Tools** | Power BI, Tableau, Jira, Trello, pgAdmin, MongoDB Compass, Anaconda, Jupyter Notebook, PyCharm, Visual Studio Code, GitHub, Excel, PowerPoint
+- **Technologies/Tools** | Power BI, Tableau, Jira, Trello, pgAdmin, MongoDB Compass, Anaconda, Jupyter Notebook, PyCharm, Visual Studio Code, GitHub, Microsoft Office, Canva, Adobe, Google Analytics/Ads, Facebook Ads, ClickUp
 - **Statistics** | A/B Testing, Hypothesis Testing, one-way and two-way ANOVA, chi-square Tests, Regression and Correlation Analysis
 - **CRM Analytics** | RFM Customer Segmentation, CLV Prediction
 
