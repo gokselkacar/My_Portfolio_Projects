@@ -1,7 +1,7 @@
 # Customer Segmentation and Targeted Marketing Strategy
 
 ## Objective
-Developing a customer segmentation model to categorize customers into distinct groups based on their purchasing behavior and personal characteristics. Using this model to recommend targeted marketing strategies for a retail company.
+Develop a customer segmentation model to categorize customers into distinct groups based on their purchasing behavior and personal characteristics. Use this model to recommend targeted marketing strategies for a retail company.
 
 ## Dataset
 “ Mall Customers ” dataset. This dataset typically includes customer information like age, gender, annual income, and spending
