@@ -39,7 +39,6 @@ variables like gender within each cluster.
 
 - Recommend targeted marketing strategies for each customer segment.
 
----
 
 ## Results
 
