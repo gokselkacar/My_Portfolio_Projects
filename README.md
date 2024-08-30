@@ -8,7 +8,8 @@
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
-- [Customer Segmentation Using the K-means Algorithm for Targeted Marketing Strategies](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) | Python (pandas, seaborn, matplotlib, plotly, sklearn)
+- [Customer Segmentation Using the K-means Algorithm for Targeted Marketing Strategies](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) **|** Python (pandas, seaborn, matplotlib, numpy, plotly, sklearn)
+- [A/B Testing - Comparison of Button Performances on the Montana State University Library Website](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/AB_Testing_Project_Chi_Square_Test) **|** Python (pandas, matplotlib, numpy, scipy)
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
