@@ -8,6 +8,8 @@
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
+- [Customer segmentation using the K-means algorithm for targeted marketing strategies](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20segmentation%20using%20the%20K-means%20algorithm%20for%20targeted%20marketing%20strategies) | Python (pandas, seaborn, matplotlib, plotly, sklearn)
+
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
 - **Languages** | Python, SQL(PostgreSQL, MySQL), R
