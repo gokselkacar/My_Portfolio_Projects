@@ -31,7 +31,8 @@ ______________________________
 
 The overall product rating average is calculated as 4.58.
 
-<img width="593" alt="Screen Shot 2024-02-14 at 3 13 14 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/b3c06274-ed88-43bf-98c8-9c28f8be8df6">
+<img width="593" alt="304728937-b3c06274-ed88-43bf-98c8-9c28f8be8df6" src="https://github.com/user-attachments/assets/8b74dfaa-97af-499f-9771-bd974d40186f">
+
 
 __________________________________
 
@@ -43,7 +44,7 @@ Recent ratings receive more weight in the average. This allows new, successful, 
 
 The time-based weighted average rating for the product is calculated as 4.69.
 
-<img width="593" alt="Screen Shot 2024-02-14 at 3 13 00 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/f3adbc1b-e37a-4af8-a7e6-8df7e869c906">
+<img width="593" alt="304728915-f3adbc1b-e37a-4af8-a7e6-8df7e869c906" src="https://github.com/user-attachments/assets/5e583802-9df5-4e92-b63d-d1b9a0e38c9e">
 
 
 __________________________________
@@ -54,7 +55,8 @@ The most useful customer reviews/evaluations are sorted at the top based on Wils
 
 These reviews can guide users in making informed purchasing decisions.
 
-<img width="593" alt="Screen Shot 2024-02-14 at 3 17 48 PM" src="https://github.com/gozdemadendere/My_Portfolio_Projects_/assets/90986708/c0cf480e-1ff1-48d8-9676-18bd532fae5a">
+<img width="610" alt="304730138-c0cf480e-1ff1-48d8-9676-18bd532fae5a" src="https://github.com/user-attachments/assets/9ee2566e-928b-4759-9050-e9bc24332c50">
+
 
 
 __________________________________
