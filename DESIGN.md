@@ -1,8 +1,12 @@
 # CS50’s Databases with SQL Final Project
 
+In my final project, I focused on building a Music Library Database.  This project allowed me to put my knowledge of SQL into practice by designing an efficient, well-structured database, implementing complex queries, and ensuring that the system was capable of handling real-world data and use cases.
+
+This Music Library Database provides an efficient way for users to manage and organize their music collections. While it’s not a full-fledged music streaming platform, it gives users control over their music library, allowing them to track their favourite songs, create playlists, and view detailed song information.
+
 ## Scope
 
-The purpose of this database is to manage and organize a personal music library similar to Spotify or Apple Music. It allows users to track their favorite songs, create playlists, and manage their music collection effectively.
+The purpose of this database is to manage and organize a personal music library similar to Spotify or Apple Music. It allows users to track their favourite songs, create playlists, and manage their music collection effectively.
 
 **Included in scope:**
 
@@ -12,7 +16,7 @@ The purpose of this database is to manage and organize a personal music library 
 - Playlists and user-created collections
 - User listening history
 - Genre classifications
-- User ratings and favorites
+- User ratings and favourites
 
 **Outside of scope:**
 
@@ -32,7 +36,7 @@ The purpose of this database is to manage and organize a personal music library 
 - Add, update, and delete songs from their library
 - Create, modify, and delete playlists
 - Add and remove songs from playlists
-- Rate songs and mark favorites
+- Rate songs and mark favourites
 - View their listening history
 - Search for songs, artists, and albums
 - Filter songs by various criteria (genre, artist, album, etc.)
@@ -64,7 +68,7 @@ The `users` table includes:
 * `user_id`, which specifies the unique ID for the user as an `INTEGER`. This column thus has the `PRIMARY KEY` constraint applied, automatically aliasing to ROWID for auto-incrementing behavior.
 * `username`, which specifies the user's display name as `TEXT`. This column has both `NOT NULL` and `UNIQUE` constraints to ensure each user has a distinct username.
 * `email`, which stores the user's email address as `TEXT`. This column has both `NOT NULL` and `UNIQUE` constraints as each user must have a unique email address.
-* `password_hash`, which stores the hashed password as `TEXT`. This column has the both `NOT NULL` and `UNIQUE` constraints as each user must have a unique password.
+* `password_hash`, which stores the hashed password as `TEXT`. This column has both `NOT NULL` and `UNIQUE` constraints as each user must have a unique password.
 * `first_name`, which stores the user's first name as `TEXT`. This column has both `NOT NULL` and `UNIQUE` constraints to ensure each user has a distinct first name.
 * `last_name`, which stores the user's last name as `TEXT`. This column has both `NOT NULL` and `UNIQUE` constraints to ensure each user has a distinct last name.
 * `created_at`, which specifies when the user account was created as `DATETIME`. The default value is the current timestamp, as denoted by `DEFAULT CURRENT_TIMESTAMP`.
@@ -159,7 +163,7 @@ The below entity relationship diagram describes the relationships among the enti
 **As detailed by the diagram:**
 
 * One user can create 0 to many playlists. A playlist is created by one and only one user.
-* A user can favorite 0 to many songs through the user_songs junction table.
+* A user can favourite 0 to many songs through the user_songs junction table.
 * A song can be included in 0 to many playlists through the playlist_songs junction table.
 * A song can be performed by 1 to many artists through the song_artists junction table.
 * A song belongs to 0 or 1 album (singles might not be part of an album).
