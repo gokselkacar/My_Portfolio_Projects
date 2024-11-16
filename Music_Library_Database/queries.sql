@@ -1,5 +1,6 @@
 -- Statements that users will commonly run on the database --
 
+
 -- Add a new user
 INSERT INTO users (username, email, password_hash, first_name, last_name)
 VALUES (?, ?, ?, ?, ?);
