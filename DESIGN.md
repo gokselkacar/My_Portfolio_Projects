@@ -159,6 +159,7 @@ The database includes several junction tables to represent many-to-many relation
 The below entity relationship diagram describes the relationships among the entities in the database.
 
 ![ER Diagram]![alt text](<Music Library ER Diagram.png>)
+![Music Library ER Diagram](https://github.com/user-attachments/assets/27dbd10f-caa9-4866-bf5a-e2e5f0535b2d)
 
 **As detailed by the diagram:**
 
