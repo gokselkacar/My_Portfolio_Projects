@@ -1,8 +1,4 @@
-# Design Document
-
-By Goksel Kacaroglu
-
-Video overview: <URL HERE>
+# CS50’s Databases with SQL Final Project
 
 ## Scope
 
