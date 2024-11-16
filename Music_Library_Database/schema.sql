@@ -1,4 +1,4 @@
--- Statements that users will commonly run on this database --
+--  Statements that compose the database’s schema --
 
 
 -- Represents users creating an account
