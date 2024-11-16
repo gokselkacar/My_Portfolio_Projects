@@ -1,3 +1,6 @@
+-- Statements that users will commonly run on this database --
+
+
 -- Represents users creating an account
 CREATE TABLE "users" (
     "user_id" INTEGER,
