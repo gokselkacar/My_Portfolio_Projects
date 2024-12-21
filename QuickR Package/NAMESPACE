@@ -1,0 +1,5 @@
+export(clean_column_names)
+export(quick_summary)
+export(summarize_categorical)
+export(detect_outliers)
+export(quick_plot)
